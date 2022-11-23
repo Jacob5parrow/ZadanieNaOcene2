@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">zadanko</string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+    <string name="podaj">Podaj:</string>
+    <string name="silnia">SILNIA</string>
+    <string name="enter" />
+</resources>
